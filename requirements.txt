@@ -2,7 +2,7 @@ alembic==1.0.0
 amqp==2.3.2
 aniso8601==3.0.2
 billiard==3.5.0.4
-bleach==3.0.1
+bleach==3.1.2
 blinker==1.4
 Bootstrap-Flask==1.0.8
 celery==4.2.1
